@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Azure PDF Read", "Azure PDF Read.csproj", "{2A181795-6009-4503-8A32-6E98D658C867}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A181795-6009-4503-8A32-6E98D658C867}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A181795-6009-4503-8A32-6E98D658C867}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A181795-6009-4503-8A32-6E98D658C867}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A181795-6009-4503-8A32-6E98D658C867}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14051420-6012-46A5-A04E-167EC64E75BC}
+	EndGlobalSection
+EndGlobal
